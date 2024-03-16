@@ -31,6 +31,8 @@ tags
 __pycache__/
 *.py[cod]
 *$py.class
+.venv/
+
 
 ##### REST
 .vagrant/
