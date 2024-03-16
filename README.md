@@ -1,3 +1,4 @@
 web-server-test
 Uses Virtualbox 6.1
-ubuntu/focal64 networking not working
+have virtualbox manager open
+changed boot_timeout in Vagrantfile to 500 just in case i get a long boot
